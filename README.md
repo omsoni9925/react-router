@@ -12,8 +12,8 @@ This repository serves as a demonstration of using React Router for routing and 
 1. Clone the repository to your local machine using `git clone`.
 2. Navigate to the project directory.
 3. Install the required dependencies by running `npm install`.
-4. Start the development server with `npm start`.
-5. Open your web browser and visit `http://localhost:3000` to see the application in action.
+4. Start the development server with `npm run dev`.
+5. Open your web browser and visit `http://localhost:5173` to see the application in action.
 
 ## Project Structure
 
